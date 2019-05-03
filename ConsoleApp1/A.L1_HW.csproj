@@ -44,6 +44,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Circle.cs" />
+    <Compile Include="Basket.cs" />
+    <Compile Include="Brick.cs" />
+    <Compile Include="Cement.cs" />
+    <Compile Include="PowerBank.cs" />
+    <Compile Include="Smartphone.cs" />
+    <Compile Include="ConstructionMaterials.cs" />
+    <Compile Include="Electronics.cs" />
+    <Compile Include="Product.cs" />
+    <Compile Include="Delivery.cs" />
+    <Compile Include="Payment.cs" />
+    <Compile Include="Customer.cs" />
     <Compile Include="Tringle.cs" />
     <Compile Include="Square.cs" />
     <Compile Include="Shape.cs" />
